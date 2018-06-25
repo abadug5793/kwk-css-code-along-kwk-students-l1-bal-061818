@@ -5,3 +5,8 @@ body {
     }
 #tite-section{font-size: 200%;}
 .info-section{font-family: Galada;}
+.myClass {
+      background-color: gray;
+      color: blue
+    }
+  
